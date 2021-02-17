@@ -1,0 +1,9 @@
+.intro__box{
+  width: 300px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+}
+

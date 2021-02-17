@@ -1,0 +1,6 @@
+.description__box{
+  max-width: 1070px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+}

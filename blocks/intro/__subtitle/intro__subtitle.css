@@ -1,0 +1,10 @@
+.intro__subtitle{
+  max-width: 950px;
+  margin-bottom: 0px;
+  font-size: 22px;
+  line-height: 32px;
+  font-family: 'OpenSans';
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+}

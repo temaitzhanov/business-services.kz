@@ -1,0 +1,6 @@
+.description__smal-box{
+  max-width: 425px;
+  height: 220px;
+  display: flex;
+  flex-direction: column;
+}

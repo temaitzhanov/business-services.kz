@@ -1,0 +1,30 @@
+@font-face{
+  src: url(./RussoOne-Regular.ttf);
+  font-family: 'RussOne-Regular';
+  font-weight: bold;
+}
+@font-face{
+  src: url(./Jura-Bold.ttf);
+  font-family: 'Jura';
+  font-weight: bold;
+}
+@font-face{
+  src: url(./Jura-Light.ttf);
+  font-family: 'Jura';
+  font-weight: lighter;
+}
+@font-face{
+  src: url(./Jura-Medium.ttf);
+  font-family: 'Jura';
+  font-weight: normal;
+}
+@font-face{
+  src: url(./OpenSans-ExtraBold.ttf);
+  font-family: 'OpenSans';
+  font-weight: 700;
+}
+@font-face{
+  src: url(./OpenSans-BoldItalic.ttf);
+  font-family: 'OpenSans';
+  font-weight: bold;
+}
