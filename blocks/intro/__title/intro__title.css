@@ -6,3 +6,24 @@
   color: #fff;
   padding-top: 35px;
 }
+@media (min-width: 768px) and (max-width: 1023px)
+{
+  .intro__title{
+    font-size: 31px;
+    text-align: center;
+  }
+}
+@media (min-width: 560px) and (max-width: 767px)
+{
+  .intro__title{
+    font-size: 27px;
+    text-align: center;
+}
+}
+@media (min-width: 320px) and (max-width: 559px)
+{
+  .intro__title{
+    text-align: center;
+    font-size: 22px;
+  }
+}

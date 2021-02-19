@@ -3,3 +3,15 @@
   color: orange;
   margin: 0;
 }
+@media (min-width: 560px) and (max-width: 768px){
+  .footer__phone{
+  font-size: 25px;
+  padding-left: 40px;
+  }
+}
+@media (min-width: 320px) and (max-width: 559px){
+  .footer__phone{
+    font-size: 25px;
+    padding-left: 40px;
+    }
+}

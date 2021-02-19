@@ -5,3 +5,14 @@
   color: #fff;
   margin: 0;
 }
+@media (min-width: 768px) and (max-width: 1023px){
+  .intro__box-subtitle{
+    font-size: 14px;
+  }
+}
+@media (min-width: 560px) and (max-width: 767px){
+  .intro__box-subtitle{
+    font-size: 11px;
+    text-align: center;
+  }
+}

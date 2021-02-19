@@ -5,3 +5,9 @@
   color: rgb(245, 154, 68);
   margin-left: 8px;
 }
+@media (min-width: 768px) and (max-width: 1023px){
+  .nav-bar__phone{
+    font-size: 17px;
+    padding-left: 0px;
+  }
+}

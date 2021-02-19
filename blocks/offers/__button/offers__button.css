@@ -2,3 +2,15 @@
   text-align: center;
   max-width: 240px;
 }
+@media (min-width: 1024px) and (max-width: 1069px){
+  .offers__button{
+    max-width: 165px;
+  }
+}
+@media (min-width: 320px) and (max-width: 559px)
+{
+  .offers__button{
+    max-width: 200px;
+    margin: auto;
+  }
+}

@@ -3,3 +3,11 @@
   justify-content: space-around;
   align-items: center;
 }
+@media (min-width: 320px) and (max-width: 767px)
+{
+  .pluses__cards{
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+

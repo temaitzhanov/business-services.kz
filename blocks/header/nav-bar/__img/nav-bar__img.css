@@ -8,3 +8,9 @@
   margin-top: 7px;
   filter: invert(1);
 }
+@media (min-width: 768px) and (max-width: 1023px){
+  .nav-bar__img{
+    width: 33px;
+    height: 33px;
+  }
+}

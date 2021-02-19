@@ -7,3 +7,17 @@
   justify-content: space-between;
   align-items: center;
 }
+@media (min-width: 560px) and (max-width: 767px){
+  .header{
+    height: 200px;
+    margin: auto;
+    display: block;
+  }
+}
+@media (min-width: 320px) and (max-width: 559px){
+  .header{
+    height: 200px;
+    margin: auto;
+    display: block;
+  }
+}

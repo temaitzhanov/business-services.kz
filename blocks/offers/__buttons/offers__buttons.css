@@ -2,3 +2,15 @@
   display: flex;
   justify-content: space-between;
 }
+@media (min-width: 1024px) and (max-width: 1069px){
+  .offers__buttons{
+    display: flex;
+    justify-content: space-around;
+  }
+}
+@media (min-width: 320px) and (max-width: 559px){
+  .offers__buttons{
+    display: flex;
+    flex-wrap: wrap;
+  }
+}

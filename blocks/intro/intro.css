@@ -7,4 +7,18 @@
   justify-content: start;
   align-items: center;
 }
-
+@media (min-width: 768px) and (max-width: 1023px){
+  .intro{
+    height: 720px;
+  }
+}
+@media (min-width: 560px) and (max-width: 767px){
+  .intro{
+    height: 780px;
+  }
+}
+@media (min-width: 320px) and (max-width: 559px){
+  .intro{
+    height: 1500px;
+  }
+}

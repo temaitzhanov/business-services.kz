@@ -1,5 +1,5 @@
 .intro__description{
-  width: 845px;
+  max-width: 845px;
   margin-top: 0px;
   font-size: 32px;
   line-height: 39px;
@@ -7,4 +7,15 @@
   font-weight: 700;
   text-align: center;
   color: rgb(255, 140, 0);
+}
+@media (min-width: 768px) and (max-width: 1023px)
+{
+  .intro__description{
+    font-size: 27px;
+  }
+}
+@media (min-width: 560px) and (max-width: 767px){
+  .intro__description{
+    font-size: 21px;
+  }
 }

@@ -4,3 +4,9 @@
   font-style: normal;
   font-weight: 400;
 }
+@media (min-width: 560px) and (max-width: 767px)
+{
+  .description__title{
+    font-size: 26px;
+  }
+}

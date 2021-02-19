@@ -5,3 +5,9 @@
   margin-bottom: 7px;
   text-align: right;
 }
+@media (min-width: 320px) and (max-width: 559px)
+{
+  .description__text{
+    text-align: center;
+  }
+}

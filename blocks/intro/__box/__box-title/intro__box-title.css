@@ -7,3 +7,14 @@
   margin: 0;
   margin-bottom: 8px;
 }
+@media (min-width: 768px) and (max-width: 1023px){
+  .intro__box-title{
+    font-size: 14px;
+  }
+}
+@media (min-width: 560px) and (max-width: 767px){
+  .intro__box-title{
+    font-size: 12px;
+    text-align: center;
+  }
+}

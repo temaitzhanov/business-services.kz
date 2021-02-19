@@ -8,3 +8,9 @@
   color: #fff;
   text-align: center;
 }
+@media (min-width: 560px) and (max-width: 767px)
+{
+  .intro__subtitle{
+    font-size: 18px;
+  }
+}

@@ -5,3 +5,15 @@
   justify-content: space-between;
   align-items: center;
 }
+@media (min-width: 560px) and (max-width: 768px)
+{
+  .footer__container{
+    display: block;
+  }
+}
+@media (min-width: 320px) and (max-width: 559px)
+{
+  .footer__container{
+    display: block;
+  }
+}
