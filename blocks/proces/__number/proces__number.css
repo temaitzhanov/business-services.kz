@@ -1,0 +1,12 @@
+.proces__number{
+  width: 36px;
+  height: 38px;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+  margin: auto;
+  font-size: 28px;
+  font-family:  Helvetica, sans-serif;
+  border: 5px solid #FFD523;
+  border-radius: 50%;
+  color: #fff;
+}

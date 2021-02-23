@@ -1,0 +1,11 @@
+.service-list__titl-bc{
+  max-width: 789px;
+  margin: auto;
+  padding: 20px 80px 20px 80px;
+  text-align: center;
+  font-size: 18px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 600;
+  color: #fff;
+  background-color: rgba(245,184,17,1);
+}

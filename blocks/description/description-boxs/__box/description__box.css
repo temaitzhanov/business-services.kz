@@ -1,0 +1,7 @@
+.description-box{
+  max-width: 535px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+}

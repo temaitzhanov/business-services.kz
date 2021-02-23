@@ -1,0 +1,9 @@
+.servic-list__title{
+  max-width: 787px;
+  margin: auto;
+ font-size: 24px;
+ font-family: Helvetica, sans-serif;
+ text-align: center;
+ font-weight: 600;
+ padding-top: 40px;
+}

@@ -1,0 +1,9 @@
+.consultaition{
+  background-image: url(../../image/178949ae294f76f1100fb519e8661950.jpg);
+  display: flex;
+  flex-direction: column;
+  height: 400px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

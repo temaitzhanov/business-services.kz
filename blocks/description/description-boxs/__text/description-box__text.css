@@ -1,0 +1,10 @@
+.description-box__text{
+  max-width: 439px;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 600;
+  font-family: Helvetica, sans-serif;
+  color: #fff;
+  margin: 0;
+  margin-top: 30px;
+}

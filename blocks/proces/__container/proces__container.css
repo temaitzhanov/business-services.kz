@@ -1,0 +1,8 @@
+.proces__container{
+  max-width: 1070px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: auto;
+  padding-bottom: 80px;
+}

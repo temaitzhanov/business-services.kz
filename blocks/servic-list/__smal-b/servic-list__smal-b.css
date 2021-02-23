@@ -1,0 +1,6 @@
+.servic-list__smal-b{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding-bottom: 40px;
+}

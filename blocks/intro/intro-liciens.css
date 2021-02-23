@@ -1,0 +1,11 @@
+.intro-liciens{
+  display: flex;
+  /*height: 735px; Убрать*/
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  background-image: url(../../image/canva-photo-editor.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

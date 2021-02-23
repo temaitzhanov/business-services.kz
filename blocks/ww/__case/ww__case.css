@@ -1,0 +1,7 @@
+.ww__case{
+  max-width: 450px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
