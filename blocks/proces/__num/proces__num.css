@@ -1,3 +1,8 @@
 .proces__num{
   max-width: 175px;
 }
+@media (min-width: 320px) and (max-width: 767px){
+  .proces__num{
+    max-width: 300px;
+  }
+}

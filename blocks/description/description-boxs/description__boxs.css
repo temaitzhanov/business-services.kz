@@ -4,3 +4,8 @@
   display: flex;
   justify-content: space-around;
 }
+@media (min-width: 320px) and (max-width: 767px){
+  .description-boxs{
+    display: block;
+  }
+}

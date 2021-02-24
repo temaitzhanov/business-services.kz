@@ -7,3 +7,8 @@
   margin: auto;
   margin-top: 40px;
 }
+@media (min-width: 320px) and (max-width: 767px){
+  .consultation__title-bc{
+    text-align: center;
+  }
+}

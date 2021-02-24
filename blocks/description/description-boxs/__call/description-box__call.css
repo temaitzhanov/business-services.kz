@@ -7,3 +7,10 @@
   margin: 0;
   margin-top: 10px;
 }
+@media (min-width: 320px) and (max-width: 767px){
+  .description-box__call{
+    display: block;
+    margin: auto;
+    text-align: center;
+  }
+}

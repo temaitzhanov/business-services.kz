@@ -6,3 +6,9 @@
   margin-top: 30px;
   margin-bottom: 0px;
 }
+@media (min-width: 320px) and (max-width: 767px)
+{
+  .intro__liciens-text{
+    text-align: center;
+  }
+}

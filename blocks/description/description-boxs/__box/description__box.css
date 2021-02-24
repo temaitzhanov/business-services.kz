@@ -5,3 +5,9 @@
   justify-content: start;
   align-items: center;
 }
+@media (min-width: 320px) and (max-width: 767px){
+  .description-box{
+   display: block;
+   margin: auto;
+  }
+}

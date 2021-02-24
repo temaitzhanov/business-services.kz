@@ -4,3 +4,10 @@
   align-items: flex-end;
   padding-bottom: 40px;
 }
+@media (min-width: 320px) and (max-width: 767px){
+  .servic-list__smal-b{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

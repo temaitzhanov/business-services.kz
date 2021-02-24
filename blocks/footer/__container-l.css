@@ -1,10 +1,18 @@
 .footer__container-l{
   max-width: 1070px;
-  padding-top: 80px;
+  /*padding-top: 80px;*/
   padding-bottom: 80px;
   margin: auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
 
+}
+@media (min-width: 320px) and (max-width: 767px){
+  .footer__container-l{
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    padding-bottom: 20px;
+  }
 }

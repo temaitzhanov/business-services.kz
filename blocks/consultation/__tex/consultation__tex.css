@@ -7,3 +7,9 @@
   font-weight: 700;
   margin-top: 50px;
 }
+@media (min-width: 320px) and (max-width: 767px){
+  .consultation__tex{
+    text-align: center;
+    margin-top: 45px;
+  }
+}

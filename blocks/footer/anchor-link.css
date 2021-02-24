@@ -5,3 +5,11 @@
   top: 50%;
   left: 5%;
 }
+@media (min-width: 320px) and (max-width: 768px){
+  .anchor-link{
+    width: 50px;
+    height: 50px;
+    top: 88%;
+    left: 5%;
+  }
+}

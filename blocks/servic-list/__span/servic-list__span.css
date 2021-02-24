@@ -3,3 +3,8 @@
   height: 4px;
   background-color: #ffc022;
 }
+@media (min-width: 320px) and (max-width: 767px){
+  .servic-list__span{
+    margin-bottom: 20px;
+  }
+}

@@ -4,3 +4,9 @@
   background-color: #FFD523;
   margin-top: 30px;
 }
+@media (min-width: 320px) and (max-width: 767px)
+{
+  .proces__span{
+    display: none;
+  }
+}

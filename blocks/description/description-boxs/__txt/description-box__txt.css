@@ -6,3 +6,9 @@
   color: #ff8C00;
   font-weight: 700;
 }
+@media (min-width: 320px) and (max-width: 767px){
+  .description-box__txt{
+    display: block;
+    margin: auto;
+  }
+}
