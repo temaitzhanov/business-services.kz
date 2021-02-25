@@ -6,3 +6,9 @@
   text-align: center;
   margin: 0;
 }
+@media (min-width: 320px) and (max-width: 559px){
+  .services__title{
+    max-width: 300px;
+    margin: auto;
+  }
+}

@@ -5,3 +5,10 @@
   color: rgb(255, 140, 0);
   text-align: center;
 }
+@media (min-width: 320px) and (max-width: 559px){
+  .services__sub-text{
+    max-width: 300px;
+    margin: auto;
+    margin-top: 20px;
+  }
+}
