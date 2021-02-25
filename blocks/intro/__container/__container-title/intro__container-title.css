@@ -5,7 +5,7 @@
   text-align: center;
   color: rgb(255, 255, 255);
   margin-bottom: 0px;
-  margin-top: 30px;
+  margin-top: 0px;
 }
 @media (min-width: 320px) and (max-width: 559px){
   .intro__container-title{
