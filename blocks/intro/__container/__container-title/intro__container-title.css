@@ -9,7 +9,7 @@
 }
 @media (min-width: 320px) and (max-width: 559px){
   .intro__container-title{
-    width: 200px;
+    width: 300px;
     margin: auto;
     font-size: 22px;
   }
