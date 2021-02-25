@@ -3,10 +3,16 @@
   text-decoration: none;
   color: rgb(255, 255, 255);
   margin-right: 20px;
+  margin-bottom: 0px;
 }
 @media (min-width: 768px) and (max-width: 1023px){
   .header__menu-link{
     padding-left: 0px;
   }
 }
-
+@media (min-width: 320px) and (max-width: 767px){
+  .header__menu-link{
+    display: block;
+    margin-bottom: 20px;
+  }
+}
