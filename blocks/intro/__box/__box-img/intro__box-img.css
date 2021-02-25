@@ -5,3 +5,9 @@
   margin-bottom: 10px;
   margin-top: 15px;
 }
+@media (min-width: 320px) and (max-width: 559px){
+  .intro__box-img{
+    width: 32px;
+    height: 32px;
+  }
+}

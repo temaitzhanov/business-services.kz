@@ -4,3 +4,9 @@
   border: 1px solid black;
   padding-bottom: 50px;
 }
+@media (min-width: 320px) and (max-width: 559px)
+{
+  .description{
+  padding-bottom: 0px;
+  }
+}

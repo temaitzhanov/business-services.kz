@@ -15,7 +15,11 @@
 }
 @media (min-width: 320px) and (max-width: 559px){
   .description__text-tem{
+    max-width: 300px;
+    margin: auto;
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
 }
