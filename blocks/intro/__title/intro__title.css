@@ -1,4 +1,7 @@
 .intro__title{
+  max-width: 560px;
+  margin: auto;
+  text-align: center;
   font-family: 'RussOne-Regular';
   font-size: 42px;
   font-weight: bold;
@@ -23,8 +26,9 @@
 @media (min-width: 320px) and (max-width: 559px)
 {
   .intro__title{
+    max-width: 300px;
     text-align: center;
     font-size: 30px;
-    padding-top: 15px;
+    padding-top: 0px;
   }
 }
