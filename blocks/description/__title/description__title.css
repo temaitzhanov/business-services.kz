@@ -10,3 +10,8 @@
     font-size: 26px;
   }
 }
+@media (min-width: 320px) and (max-width: 766px){
+  .description__title{
+    font-size: 22px;
+  }
+}

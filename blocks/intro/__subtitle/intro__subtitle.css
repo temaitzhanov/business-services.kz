@@ -16,8 +16,11 @@
 }
 @media (min-width: 320px) and (max-width: 767px){
   .intro__subtitle{
+    max-width: 300px;
+    margin: auto;
     font-size: 14px;
     line-height: 14px;
     margin-bottom: 10px;
+    margin-top: 10px;
   }
 }

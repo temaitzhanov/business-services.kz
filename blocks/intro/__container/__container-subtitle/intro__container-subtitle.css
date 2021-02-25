@@ -11,5 +11,6 @@
 @media (min-width: 320px) and (max-width: 767px){
   .intro__container-subtitle{
     font-size: 16px;
+    margin-bottom: 10px;
   }
 }

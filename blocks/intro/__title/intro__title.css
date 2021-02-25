@@ -26,6 +26,8 @@
 @media (min-width: 320px) and (max-width: 559px)
 {
   .intro__title{
+    margin-top: 20px;
+    margin-bottom: 10px;
     max-width: 300px;
     text-align: center;
     font-size: 30px;

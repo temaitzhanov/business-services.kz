@@ -21,7 +21,11 @@
 }
 @media (min-width: 320px) and (max-width: 767px){
   .intro__description{
+    max-width: 300px;
+    margin: auto;
     font-size: 13px;
     line-height: 13px;
+    margin-top: 0px;
+    margin-bottom: 10px;
   }
 }
